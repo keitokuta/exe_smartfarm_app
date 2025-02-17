@@ -1,0 +1,97 @@
+# Flutter/Dart
+**/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+*.iml
+*.iws
+.idea/
+.vscode/
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+coverage/
+dist/
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
+
+# Firebase
+**/google-services.json
+**/firebase-service-account.json
+**/GoogleService-Info.plist
+
+# PostgreSQL
+*.sql.bak
+*.dump
+*.pgdata/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependencies
+.pnp/
+.pnp.js
+.yarn/
+.yarnrc
+.npmrc
+
+# Testing
+/coverage
+.nyc_output/
+
+# Production
+/build
+/dist
+
+# Misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vercel
+.netlify
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
